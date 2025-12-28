@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+wheel/
+build/
+dist/
+*.pyc
+
+*.o
+
+/log
+/result
+
+.env

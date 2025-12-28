@@ -1,0 +1,14 @@
+[project]
+name = "specfs_eval"
+version = "0.1.0"
+description = "SpecFS Artifact Evaluation"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "rich",
+    "matplotlib",
+    "numpy",
+    "openai",
+    "python-dotenv",
+    "google.genai",
+]
